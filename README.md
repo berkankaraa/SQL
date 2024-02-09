@@ -1,1 +1,1 @@
-Bu proje seti patika.dev POSTGRESQL sorgularını içermektedir.
+Bu proje seti PostgreSQL(patika.dev) sorgularını içermektedir.
