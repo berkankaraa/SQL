@@ -18,3 +18,4 @@ SELECT first_name FROM actor EXCEPT SELECT first_name FROM customer;
 ```
 (SELECT first_name FROM actor) EXCEPT ALL (SELECT first_name FROM customer);
 ```
+---
