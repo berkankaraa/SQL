@@ -4,8 +4,7 @@ CREATE TABLE employee (
 	id INT NOT NULL,
 	name VARCHAR(50) NOT NULL,
 	birthday DATE NOT NULL,
-	email VARCHAR(100)
-);
+	email VARCHAR(100));
 ```
 2. Oluşturduğumuz **employee** tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 ```
