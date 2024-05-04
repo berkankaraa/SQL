@@ -1,1 +1,1 @@
-Bu proje PostgreSQL (patika.dev) sorgularını içermektedir.
+#These sql queries were performed with the sample dvd.rental database.
