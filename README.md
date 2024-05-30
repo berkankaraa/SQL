@@ -1,2 +1,1 @@
-
-![phpMHy3EK](https://github.com/berkankaraa/SQL/assets/97415486/2f629114-7cfb-4c37-916b-2f912a3c2045)
+![dvd-rental-sample-database-diagram](https://github.com/berkankaraa/SQL/assets/97415486/d6b8ec55-e9cb-4531-80cc-de3dc833b347)
